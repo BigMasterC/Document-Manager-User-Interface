@@ -1,5 +1,3 @@
-Certainly! Here are the GitHub README files for Project 3 and Project 4:
-
 ---
 
 ### Project 3: Text-Based User Interface for Document Management System
@@ -24,7 +22,7 @@ This project involves developing a text-based user interface for a document mana
 #### How to Run
 1. **Clone the repository:**
    ```sh
-   git clone <repository-url>
+   git clone git@github.com:BigMasterC/Document-Manager-User-Interface.git
    cd project3
    ```
 2. **Compile the program:**
